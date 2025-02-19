@@ -95,9 +95,5 @@
 ## CONTACT`JACK `TECH HERE
 <b>CONTACT OWNER</b>
 
-[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94743381623)
+[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/254796087764)
 <hr>
-  <a href="https://github.com/jtechde/james"><img title="CONTACT-JACK" src="https://img.shields.io/badge/CONTACT-JACK-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-

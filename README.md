@@ -1,5 +1,5 @@
-## WELCOME TO JACKIE_MD
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=pink&center=true&vCenter=true&width=300&height=50&lines=`JACKIE+MD+created+by+JACK)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=JACKIE+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+JACK)](https://git.io/typing-svg) 
 ## 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗜𝗦 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗨𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=✚+✚+✚+✚+✚+✚+✚+✚+✚+✜+✜+✚+✚+✚+✚)](https://git.io/typing-svg) 
 

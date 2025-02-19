@@ -234,10 +234,10 @@ keith({
 ┃
 ┃   *◇* ${data.fact} 
 ┃
-┃   *◇* Regards *JAMES MD*
+┃   *◇* Regards *JACKIE MD*
 ┃      
  ╭────────────────◆
- │ *_Powered by JAMES._*
+ │ *_Powered by JACKIE._*
  ╰─────────────────◆
     `;
 
@@ -276,10 +276,10 @@ keith({
 ┃  
 ┃   *◇* *AUTHOR:* ${data.quote.author}
 ┃      
-┃    *◇*  *regards JAMES MD*
+┃    *◇*  *regards JACKIE MD*
 ┃    
 ╭────────────────◆
-│ *_Powered by JAMES._*
+│ *_Powered by JACKIE._*
 ╰─────────────────◆
     `;
 

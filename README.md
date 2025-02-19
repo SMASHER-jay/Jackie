@@ -82,7 +82,7 @@
 ![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=SMASHER-jay&repo=Jackie&show_owner=true&theme=light)
 
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
 
 
 

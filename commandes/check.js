@@ -46,7 +46,7 @@ zokou({
     fileName: 'shizo',
     contextInfo: {
       externalAdReply: {
-        title: '💀JAMES MD IS ONLINE 💀',
+        title: '✌️JAACKIE MD IS ONLINE ✌️',
         body: 'TAP HERE TO FOLLOW OUR CHANNEL',
         thumbnailUrl: img,
         sourceUrl: murl,

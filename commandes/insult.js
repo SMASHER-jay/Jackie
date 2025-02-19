@@ -28,7 +28,7 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "JAMES MD",
+        title: "JACKIE MD",
         body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
         thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",

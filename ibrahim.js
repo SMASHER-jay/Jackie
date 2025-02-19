@@ -132,7 +132,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = ` 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓 𝐈𝐒 𝐎𝐍𝐋𝐈𝐍𝐄💀 : ${currentDateTime}`; // Format the bio text
+        const bioText = ` 💦JACKIE MD IS ONLINE💦 : ${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -147,13 +147,13 @@ setInterval(async () => {
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "*💀𝐒𝐎𝐑𝐑𝐘 𝐔𝐒𝐄𝐑 𝐃𝐄𝐀𝐃💀 .*\n\n> 𝐈𝐌 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬."
+      text: "*💦WOIYEEH MY USER IS CURRENTLY OFF💦 .*\n\n> 𝐈𝐌 ✌️JACKIE MD✌️ 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 jack."
     });
   }
 });
 
         // Default auto-reply message
-let auto_reply_message = "𝐈𝐌 𝐈𝐌 𝐂𝐇𝐀𝐑𝐆𝐄 𝐖𝐀𝐈𝐓 𝐅𝐎𝐑 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 𝐎𝐑 𝐋𝐄𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐌𝐄𝐒𝐒𝐀𝐆𝐄.\n\n> 𝐈𝐌💀 𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬..";
+let auto_reply_message = "MY OWNER IF OFFLINE WHEN BACK WILL TEXT.\n\n> 𝐈𝐌✌️JACKIE MD✌️ 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 JACK..";
 
 // Track contacts that have already received the auto-reply
 let repliedContacts = new Set();
@@ -220,7 +220,7 @@ function createNotification(deletedMessage) {
         timeStyle: 'medium',
     }).format(new Date());
 
-    let notification = `*[ 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐃𝐈𝐒𝐏𝐋𝐀𝐘𝐄𝐃 𝐁𝐘 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 ]*\n\n`;
+    let notification = `*[ 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐃𝐈𝐒𝐏𝐋𝐀𝐘𝐄𝐃 𝐁𝐘 ✌️JACKIE MD✌️ ]*\n\n`;
     notification += `*⌚Deletion Time:* ${timeInNairobi}\n`;
     notification += `*👤Deleted By:* @${deletedBy.split('@')[0]}\n\n`;
 
@@ -682,7 +682,7 @@ if (ms.message?.imageMessage || ms.message?.audioMessage || ms.message?.videoMes
         // Remove the user from the group and send a notification
         zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove").then(() => {
           zk.sendMessage(origineMessage, {
-            text: '@' + auteurMessage.split('@')[0] + " removed by 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀because of spamming in group",
+            text: '@' + auteurMessage.split('@')[0] + " removed by ✌️JACKIE MD✌️because of spamming in group",
             mentions: [auteurMessage]
           });
         }).catch(err => console.log(err));
@@ -1314,23 +1314,23 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Popkid md connecting in your account...");
+                console.log("ℹ️ JACKIE md connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("💀James Md connected successfully💀");
+                console.log("✌️JACKIE Md connected successfully✌️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log(" james-md loading plugins💀\n\n");
+                console.log(" jackie-md loading plugins✌️\n\n");
                 //chargement des commandes 
                 console.log("chargement des plugins ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + " Loaded successfully by 💀dev james💀");
+                            console.log(fichier + " Loaded successfully by 💦dev jack");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be loaded for the following reasons : ${e}`);
@@ -1350,19 +1350,19 @@ zk.ev.on('group-participants.update', async (group) => {
                 else {
                     md = "undefined";
                 }
-                console.log("james md successfully connected💀");
+                console.log("jack md successfully connected✌️");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg =` 💀𝙹𝙰𝙼𝙴𝚂 𝙼𝙳💀 ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
+                let cmsg =` 💀JACK MD💀 ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
 
  ╭────────────────◆
  │  💀ᴘʀᴇғɪx 💀: [ ${prefixe} ]
  │  💀ᴍᴏᴅᴇ 💀: ${md}
  │ 💀 ᴘʟᴜɢɪɴs 💀: 250
- │  💀ᴘʟᴀᴛғᴏʀᴍ💀 : 𝐣𝐚𝐦𝐞𝐬
- │  💀ᴅᴇᴠ 💀: 𝙹𝙰𝙼𝙴𝚂💀
+ │  💀ᴘʟᴀᴛғᴏʀᴍ💀 : jack
+ │  💀ᴅᴇᴠ 💀: JAMES💀
  ╰─────────────────◆
 
 sᴜᴘᴘᴏʀᴛ ʙʏ 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶
@@ -1380,7 +1380,7 @@ https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H` ;
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connection error💀 ,,𝙹𝙰𝙼𝙴𝚂💀trying to reconnect... ');
+                    console.log('connection error✌️ ,,JACKIE👻trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {

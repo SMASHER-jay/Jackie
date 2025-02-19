@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=𝓙𝓒𝓚𝓘𝓔+𝓜𝓓+𝓑𝓞𝓣+𝓒𝓡𝓔𝓐𝓣𝓔𝓓+𝓑𝓨+𝓙𝓐𝓒𝓚)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=🅙︎🅐︎🅒︎🅚︎🅘︎🅔︎+𝓜𝓓+𝓑𝓞𝓣+𝓒𝓡𝓔𝓐𝓣𝓔𝓓+𝓑𝓨+𝓙𝓐𝓒𝓚)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/cmem9s.jpg" width="600" height="200" />
 

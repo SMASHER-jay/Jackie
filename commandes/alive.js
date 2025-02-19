@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *JAMES-MD-WABOT*`
+ *JACKIE-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("USKUE FALA BANA🙆😒😂") ; return};
 
-      await   repondre("TANGU LINI A LEGIT 🕷️JAMES MD🕷️ IKAZIMA,, ACHA UFALA MZEE");
+      await   repondre("TANGU LINI A LEGIT 🕷️JACKIE MD🕷️ IKAZIMA,, ACHA UFALA MZEE");
          repondre("YOO DON'T DISTURB ME 🤦AM ALWAYS ACTIVE :)")
      }
  } else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *JAMES MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *JACKIE MD BOT* is alive just like you gee. ')
 
 }
     });

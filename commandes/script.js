@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *JAMES MD IMPORTANT INFO* 
+     *JACKIE MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/jtechde/james
+> https://github.com/SMASHER-jay/Jackie
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *james*
-│❒⁠⁠⁠⁠ *DEV2* : *james*
+│❒⁠⁠⁠⁠ *DEV1* : *jack*
+│❒⁠⁠⁠⁠ *DEV2* : *jack*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *james Tech*
+     *jackie md*
 
 ❒────────────────────❒`;
 
@@ -121,24 +121,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *JAMES MD IMPORTANT INFO* 
+   *JACKIE MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/jtechde/james
+> https://github.com/SMASHER-jay/Jackie
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/jtechde/james
+> https://github.com/SMASHER-jay/Jackie
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *james tech*
+│❒⁠⁠⁠⁠ *DEV* : *jacks tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝙟𝙖𝙢𝙚𝙨 𝙩𝙚𝙘𝙝 𝙨𝙘𝙞𝙚𝙣𝙘𝙚
+     JACKS TECH 𝙨𝙘𝙞𝙚𝙣𝙘𝙚
 
 ❒────────────────────❒`;
 

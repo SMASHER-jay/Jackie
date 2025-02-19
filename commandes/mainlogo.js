@@ -70,8 +70,8 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "💀 𝐉𝐀𝐌𝐄𝐒-𝐌𝐃 💀",
-        body: "Regards, james",
+        title: "💦 JACKIE_MD 💦",
+        body: "Regards, jacks",
         thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
         mediaType: 1,

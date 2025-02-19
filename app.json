@@ -1,9 +1,9 @@
 {
-  "name":"JAMES-MD",
-  "description":"Best whatsapp bot created by JAMESTECH",
+  "name":"JACK-MD",
+  "description":"Best whatsapp bot created by JACKSTECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/eg2cgb.jpg",
-  "repository":"https://github.com/jtech//james",
+  "repository":"https://github.com/SMASHER-jay/Jackie",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "james"
+    "value": "jack"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254785016388"
+    "value": "254796087764"
   },
     "WARN_COUNT":
   {

@@ -1,4 +1,4 @@
-const util = require('util');
+noconst util = require('util');
 const fs = require('fs-extra');
 const { zokou } = require(__dirname + "/../framework/zokou");
 const { format } = require(__dirname + "/../framework/mesfonctions");
@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝐉𝐀𝐌𝐄𝐒 𝐈𝐍𝐅𝐎* 
+      *JACKIE 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/jtechde/james
+> https://github.com/SMASHER-jay/Jackie
 
 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
 > https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ⁠
 ╭───────────────────❒
 │👌 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🔥 *DEV1* : *JAMES*
-│🕷️ *DEV2* : *JAMESTECH*
+│🔥 *DEV1* : *JACK*
+│🕷️ *DEV2* : *JACKIE_MD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *JAMES TECH*
+     *JACKIE MD*
 
 ❒────────────────────❒`;
 

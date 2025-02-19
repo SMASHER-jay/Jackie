@@ -27,7 +27,7 @@ keith({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
 
   // Prepare the initial message tag
   let tag = `========================\n  
-        🌹 *JAMES MD* 🌹
+        ✌️ *JACK MD* ✌️
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
@@ -656,7 +656,7 @@ keith({nomCom:"hidetag",categorie:'Group',reaction:"🌹"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'JAMES MD-tag',
+          pack: 'JACKIE MD-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",

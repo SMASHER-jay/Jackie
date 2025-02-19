@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "JAMES", numero: "254785016388" },
-      { nom: "᚛JAMES᚜", numero: "254785016388" },
-      { nom: "JAMES", numero: "254704955033" },
+      { nom: "JAMES", numero: "254796087764" },
+      { nom: "᚛JAMES᚜", numero: "254796087764" },
+      { nom: "JAMES", numero: "254796087764" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO JAMESMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO JACKIEMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING JACKIEMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ) 
+  repondre("THANK YOU FOR CHOOSING JACKIEMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r] \n\n ) 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING JACKIEMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })

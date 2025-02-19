@@ -32,7 +32,7 @@ zokou({
   const selectedAudio = audioFiles[Math.floor(Math.random() * audioFiles.length)];
 
   // External URLs for references
-  const murl = 'https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H';
+  const murl = 'https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r';
   const img = 'https://files.catbox.moe/eg2cgb.jpg';
 
   // Audio message object

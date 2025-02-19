@@ -127,7 +127,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/SMASHER-jay/Jackie
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+> https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/SMASHER-jay/Jackie

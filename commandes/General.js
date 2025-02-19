@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING JAMESMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ) 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING JAMESMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING JACKIEMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H] \n\n ) 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING JACKIEMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })

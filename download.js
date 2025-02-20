@@ -1,4 +1,3 @@
-//Fuck You Buy jackie bitch//
 const { fetchJson } = require('../../lib/myfunc');
 const { ringtone } = require('../../lib/scraper');
 const fetch = require('node-fetch'); 

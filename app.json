@@ -1,8 +1,8 @@
 {
-  "name":"JACK-MD",
+  "name":"𝐉𝐀𝐂𝐊𝐈𝐄-𝐌𝐃",
   "description":"Best whatsapp bot created by JACKSTECH",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/eg2cgb.jpg",
+  "logo":"https://files.catbox.moe/gx6fbe.jpg",
   "repository":"https://github.com/SMASHER-jay/Jackie",
   "succes_url":"/",
   "stack":"container",
@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"JAMES_MD",
+    "value":"𝐉𝐀𝐂𝐊𝐈𝐄_𝐌𝐃",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/eg2cgb.jpg",
+    "value":"https://files.catbox.moe/gx6fbe.jpg",
     "required":false
        
      },

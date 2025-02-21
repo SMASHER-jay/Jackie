@@ -97,3 +97,6 @@
 
 [![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/254796087764)
 <hr>
+
+<p align="centre"><img src="https://files.catbox.moe/1q35ds.jpg" width="600" height="200" />
+

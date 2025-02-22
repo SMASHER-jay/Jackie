@@ -50,7 +50,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡`༑༑+𝗜𝗗+𝗦𝗜𝗧𝗘`༑༑+𝗜𝗦+𝗛𝗘𝗥𝗘`༑༑)](https://git.io/typing-svg)
  
 
-  <a href="(https://sessionn-1jackiemd.onrender.com)"><img title="GET-SESSION ID SERVER 2" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="(https://sessionn-1jackiemd.onrender.com)"><img title="GET-SESSION ID" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
